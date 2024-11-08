@@ -1,0 +1,453 @@
+Start run training, total epoch: 90.
+
+epoch 1 cost time = 508.7149701118469, train step num: 18810, one step time: 27.044921324393776 ms, train samples per second of cluster: 1183.2
+
+epoch: 1 step: 18810, loss is 0.7837822437286377
+epoch time: 515333.027 ms, per step time: 27.397 ms
+
+epoch 2 cost time = 441.9296247959137, train step num: 18810, one step time: 23.494397915784887 ms, train samples per second of cluster: 1362.0
+
+epoch: 2 step: 18810, loss is 0.41933563351631165
+epoch time: 441933.526 ms, per step time: 23.495 ms
+
+epoch 3 cost time = 442.3334970474243, train step num: 18810, one step time: 23.515869061532392 ms, train samples per second of cluster: 1360.8
+
+epoch: 3 step: 18810, loss is 0.20001676678657532
+epoch time: 442337.569 ms, per step time: 23.516 ms
+
+epoch 4 cost time = 446.735023021698, train step num: 18810, one step time: 23.749868315879745 ms, train samples per second of cluster: 1347.4
+
+epoch: 4 step: 18810, loss is 0.17162194848060608
+epoch time: 446743.572 ms, per step time: 23.750 ms
+
+epoch 5 cost time = 441.2025372982025, train step num: 18810, one step time: 23.455743609686472 ms, train samples per second of cluster: 1364.3
+
+epoch: 5 step: 18810, loss is 0.33396589756011963
+epoch time: 442700.148 ms, per step time: 23.535 ms
+
+epoch 6 cost time = 434.2163727283478, train step num: 18810, one step time: 23.084336668173727 ms, train samples per second of cluster: 1386.2
+
+epoch: 6 step: 18810, loss is 0.29929590225219727
+epoch time: 434221.418 ms, per step time: 23.085 ms
+
+epoch 7 cost time = 439.06820607185364, train step num: 18810, one step time: 23.342275708232517 ms, train samples per second of cluster: 1370.9
+
+epoch: 7 step: 18810, loss is 0.40506821870803833
+epoch time: 439076.896 ms, per step time: 23.343 ms
+
+epoch 8 cost time = 438.1062557697296, train step num: 18810, one step time: 23.29113534129344 ms, train samples per second of cluster: 1373.9
+
+epoch: 8 step: 18810, loss is 0.23271656036376953
+epoch time: 438121.639 ms, per step time: 23.292 ms
+
+epoch 9 cost time = 439.39146399497986, train step num: 18810, one step time: 23.35946113742583 ms, train samples per second of cluster: 1369.9
+
+epoch: 9 step: 18810, loss is 0.3010432720184326
+epoch time: 439396.160 ms, per step time: 23.360 ms
+
+epoch 10 cost time = 441.1888008117676, train step num: 18810, one step time: 23.455013333958934 ms, train samples per second of cluster: 1364.3
+
+epoch: 10 step: 18810, loss is 0.033522360026836395
+epoch time: 442653.372 ms, per step time: 23.533 ms
+
+epoch 11 cost time = 435.06005930900574, train step num: 18810, one step time: 23.129189755928003 ms, train samples per second of cluster: 1383.5
+
+epoch: 11 step: 18810, loss is 0.6180745363235474
+epoch time: 435065.048 ms, per step time: 23.129 ms
+
+epoch 12 cost time = 435.7570176124573, train step num: 18810, one step time: 23.166242297312987 ms, train samples per second of cluster: 1381.3
+
+epoch: 12 step: 18810, loss is 0.17714433372020721
+epoch time: 435765.855 ms, per step time: 23.167 ms
+
+epoch 13 cost time = 439.17344188690186, train step num: 18810, one step time: 23.34787038207878 ms, train samples per second of cluster: 1370.6
+
+epoch: 13 step: 18810, loss is 0.29592299461364746
+epoch time: 439190.155 ms, per step time: 23.349 ms
+
+epoch 14 cost time = 437.08770775794983, train step num: 18810, one step time: 23.236986058370537 ms, train samples per second of cluster: 1377.1
+
+epoch: 14 step: 18810, loss is 0.28502562642097473
+epoch time: 437092.232 ms, per step time: 23.237 ms
+
+epoch 15 cost time = 437.9384412765503, train step num: 18810, one step time: 23.282213783973965 ms, train samples per second of cluster: 1374.4
+
+epoch: 15 step: 18810, loss is 0.4883081614971161
+epoch time: 439312.390 ms, per step time: 23.355 ms
+
+epoch 16 cost time = 437.11505460739136, train step num: 18810, one step time: 23.238439904699167 ms, train samples per second of cluster: 1377.0
+
+epoch: 16 step: 18810, loss is 0.08397311717271805
+epoch time: 437120.211 ms, per step time: 23.239 ms
+
+epoch 17 cost time = 437.52797198295593, train step num: 18810, one step time: 23.2603919182858 ms, train samples per second of cluster: 1375.7
+
+epoch: 17 step: 18810, loss is 0.49220043420791626
+epoch time: 437536.850 ms, per step time: 23.261 ms
+
+epoch 18 cost time = 439.4214987754822, train step num: 18810, one step time: 23.361057882800754 ms, train samples per second of cluster: 1369.8
+
+epoch: 18 step: 18810, loss is 0.2130187749862671
+epoch time: 439436.707 ms, per step time: 23.362 ms
+
+epoch 19 cost time = 442.85650086402893, train step num: 18810, one step time: 23.543673623818655 ms, train samples per second of cluster: 1359.2
+
+epoch: 19 step: 18810, loss is 0.23322923481464386
+epoch time: 442865.447 ms, per step time: 23.544 ms
+
+epoch 20 cost time = 444.6439754962921, train step num: 18810, one step time: 23.63870151495439 ms, train samples per second of cluster: 1353.7
+
+epoch: 20 step: 18810, loss is 0.10663066059350967
+epoch time: 445987.617 ms, per step time: 23.710 ms
+
+epoch 21 cost time = 440.2031481266022, train step num: 18810, one step time: 23.402612872227653 ms, train samples per second of cluster: 1367.4
+
+epoch: 21 step: 18810, loss is 0.1434294730424881
+epoch time: 440207.790 ms, per step time: 23.403 ms
+
+epoch 22 cost time = 437.5307514667511, train step num: 18810, one step time: 23.260539684569437 ms, train samples per second of cluster: 1375.7
+
+epoch: 22 step: 18810, loss is 0.3092805743217468
+epoch time: 437534.769 ms, per step time: 23.261 ms
+
+epoch 23 cost time = 442.84383845329285, train step num: 18810, one step time: 23.543000449404193 ms, train samples per second of cluster: 1359.2
+
+epoch: 23 step: 18810, loss is 0.055655285716056824
+epoch time: 442852.697 ms, per step time: 23.543 ms
+
+epoch 24 cost time = 440.6497371196747, train step num: 18810, one step time: 23.426354977122525 ms, train samples per second of cluster: 1366.0
+
+epoch: 24 step: 18810, loss is 0.14087599515914917
+epoch time: 440662.399 ms, per step time: 23.427 ms
+
+epoch 25 cost time = 440.58202028274536, train step num: 18810, one step time: 23.422754932628674 ms, train samples per second of cluster: 1366.2
+
+epoch: 25 step: 18810, loss is 0.14780408143997192
+epoch time: 441925.148 ms, per step time: 23.494 ms
+
+epoch 26 cost time = 440.2013716697693, train step num: 18810, one step time: 23.40251843007811 ms, train samples per second of cluster: 1367.4
+
+epoch: 26 step: 18810, loss is 0.037478141486644745
+epoch time: 440206.409 ms, per step time: 23.403 ms
+
+epoch 27 cost time = 441.6116247177124, train step num: 18810, one step time: 23.477492010511025 ms, train samples per second of cluster: 1363.0
+
+epoch: 27 step: 18810, loss is 0.018243685364723206
+epoch time: 441616.713 ms, per step time: 23.478 ms
+
+epoch 28 cost time = 441.6611649990082, train step num: 18810, one step time: 23.480125730941424 ms, train samples per second of cluster: 1362.9
+
+epoch: 28 step: 18810, loss is 0.10370457172393799
+epoch time: 441665.337 ms, per step time: 23.480 ms
+
+epoch 29 cost time = 444.82296991348267, train step num: 18810, one step time: 23.648217432933688 ms, train samples per second of cluster: 1353.2
+
+epoch: 29 step: 18810, loss is 0.18166573345661163
+epoch time: 444826.973 ms, per step time: 23.648 ms
+
+epoch 30 cost time = 444.92260098457336, train step num: 18810, one step time: 23.653514140594012 ms, train samples per second of cluster: 1352.9
+
+epoch: 30 step: 18810, loss is 0.06669741123914719
+epoch time: 446469.628 ms, per step time: 23.736 ms
+
+epoch 31 cost time = 435.3003120422363, train step num: 18810, one step time: 23.14196236269199 ms, train samples per second of cluster: 1382.8
+
+epoch: 31 step: 18810, loss is 0.23584651947021484
+epoch time: 435305.239 ms, per step time: 23.142 ms
+
+epoch 32 cost time = 439.7625026702881, train step num: 18810, one step time: 23.3791867448319 ms, train samples per second of cluster: 1368.7
+
+epoch: 32 step: 18810, loss is 0.0996875911951065
+epoch time: 439766.920 ms, per step time: 23.379 ms
+
+epoch 33 cost time = 440.1474618911743, train step num: 18810, one step time: 23.39965241314058 ms, train samples per second of cluster: 1367.5
+
+epoch: 33 step: 18810, loss is 0.0740261971950531
+epoch time: 440152.041 ms, per step time: 23.400 ms
+
+epoch 34 cost time = 443.40871143341064, train step num: 18810, one step time: 23.573030910867125 ms, train samples per second of cluster: 1357.5
+
+epoch: 34 step: 18810, loss is 0.07350669056177139
+epoch time: 443413.152 ms, per step time: 23.573 ms
+
+epoch 35 cost time = 440.6937117576599, train step num: 18810, one step time: 23.42869281008293 ms, train samples per second of cluster: 1365.8
+
+epoch: 35 step: 18810, loss is 0.15777790546417236
+epoch time: 441966.756 ms, per step time: 23.496 ms
+
+epoch 36 cost time = 440.16542959213257, train step num: 18810, one step time: 23.40060763381885 ms, train samples per second of cluster: 1367.5
+
+epoch: 36 step: 18810, loss is 0.2442854791879654
+epoch time: 440170.691 ms, per step time: 23.401 ms
+
+epoch 37 cost time = 441.85562109947205, train step num: 18810, one step time: 23.49046364165189 ms, train samples per second of cluster: 1362.3
+
+epoch: 37 step: 18810, loss is 0.21339264512062073
+epoch time: 441860.113 ms, per step time: 23.491 ms
+
+epoch 38 cost time = 441.4158670902252, train step num: 18810, one step time: 23.467084906444722 ms, train samples per second of cluster: 1363.6
+
+epoch: 38 step: 18810, loss is 0.11731167882680893
+epoch time: 441420.296 ms, per step time: 23.467 ms
+
+epoch 39 cost time = 443.3667905330658, train step num: 18810, one step time: 23.570802261194356 ms, train samples per second of cluster: 1357.6
+
+epoch: 39 step: 18810, loss is 0.056314706802368164
+epoch time: 443371.346 ms, per step time: 23.571 ms
+
+epoch 40 cost time = 446.4315857887268, train step num: 18810, one step time: 23.73373661822046 ms, train samples per second of cluster: 1348.3
+
+epoch: 40 step: 18810, loss is 0.04846782982349396
+epoch time: 447651.814 ms, per step time: 23.799 ms
+
+epoch 41 cost time = 442.9237275123596, train step num: 18810, one step time: 23.547247608312578 ms, train samples per second of cluster: 1359.0
+
+epoch: 41 step: 18810, loss is 0.06436295062303543
+epoch time: 442927.747 ms, per step time: 23.547 ms
+
+epoch 42 cost time = 439.50939440727234, train step num: 18810, one step time: 23.365730696824684 ms, train samples per second of cluster: 1369.5
+
+epoch: 42 step: 18810, loss is 0.14844614267349243
+epoch time: 439513.460 ms, per step time: 23.366 ms
+
+epoch 43 cost time = 444.14114141464233, train step num: 18810, one step time: 23.611969240544514 ms, train samples per second of cluster: 1355.2
+
+epoch: 43 step: 18810, loss is 0.15519686043262482
+epoch time: 444149.950 ms, per step time: 23.612 ms
+
+epoch 44 cost time = 441.6644642353058, train step num: 18810, one step time: 23.480301128937043 ms, train samples per second of cluster: 1362.8
+
+epoch: 44 step: 18810, loss is 0.08590944856405258
+epoch time: 441681.573 ms, per step time: 23.481 ms
+
+epoch 45 cost time = 438.0646710395813, train step num: 18810, one step time: 23.288924563507777 ms, train samples per second of cluster: 1374.0
+
+epoch: 45 step: 18810, loss is 0.08330521732568741
+epoch time: 439503.508 ms, per step time: 23.365 ms
+
+epoch 46 cost time = 438.2028181552887, train step num: 18810, one step time: 23.296268907777176 ms, train samples per second of cluster: 1373.6
+
+epoch: 46 step: 18810, loss is 0.058245979249477386
+epoch time: 438206.462 ms, per step time: 23.296 ms
+
+epoch 47 cost time = 439.57374835014343, train step num: 18810, one step time: 23.369151959071953 ms, train samples per second of cluster: 1369.3
+
+epoch: 47 step: 18810, loss is 0.03681211546063423
+epoch time: 439577.622 ms, per step time: 23.369 ms
+
+epoch 48 cost time = 441.7842388153076, train step num: 18810, one step time: 23.486668730213058 ms, train samples per second of cluster: 1362.5
+
+epoch: 48 step: 18810, loss is 0.023034656420350075
+epoch time: 441788.713 ms, per step time: 23.487 ms
+
+epoch 49 cost time = 439.7973108291626, train step num: 18810, one step time: 23.381037258328686 ms, train samples per second of cluster: 1368.6
+
+epoch: 49 step: 18810, loss is 0.04562070593237877
+epoch time: 439801.373 ms, per step time: 23.381 ms
+
+epoch 50 cost time = 439.4629228115082, train step num: 18810, one step time: 23.363260117570874 ms, train samples per second of cluster: 1369.7
+
+epoch: 50 step: 18810, loss is 0.07101471722126007
+epoch time: 440938.941 ms, per step time: 23.442 ms
+
+epoch 51 cost time = 442.62950372695923, train step num: 18810, one step time: 23.53160572711107 ms, train samples per second of cluster: 1359.9
+
+epoch: 51 step: 18810, loss is 0.2111857682466507
+epoch time: 442634.346 ms, per step time: 23.532 ms
+
+epoch 52 cost time = 442.12082982063293, train step num: 18810, one step time: 23.504562988869374 ms, train samples per second of cluster: 1361.4
+
+epoch: 52 step: 18810, loss is 0.00849971640855074
+epoch time: 442125.181 ms, per step time: 23.505 ms
+
+epoch 53 cost time = 438.3939609527588, train step num: 18810, one step time: 23.306430672661286 ms, train samples per second of cluster: 1373.0
+
+epoch: 53 step: 18810, loss is 0.001403958653099835
+epoch time: 438398.295 ms, per step time: 23.307 ms
+
+epoch 54 cost time = 438.5524353981018, train step num: 18810, one step time: 23.31485568304635 ms, train samples per second of cluster: 1372.5
+
+epoch: 54 step: 18810, loss is 0.06763464212417603
+
+epoch 55 cost time = 442.1531620025635, train step num: 18810, one step time: 23.506281871481313 ms, train samples per second of cluster: 1361.3
+
+epoch: 55 step: 18810, loss is 0.04021473601460457
+epoch time: 443600.284 ms, per step time: 23.583 ms
+
+epoch 56 cost time = 440.7790729999542, train step num: 18810, one step time: 23.433230887823193 ms, train samples per second of cluster: 1365.6
+
+epoch: 56 step: 18810, loss is 0.16834202408790588
+epoch time: 440784.050 ms, per step time: 23.433 ms
+
+epoch 57 cost time = 441.0328299999237, train step num: 18810, one step time: 23.44672142477 ms, train samples per second of cluster: 1364.8
+
+epoch: 57 step: 18810, loss is 0.11698457598686218
+epoch time: 441036.861 ms, per step time: 23.447 ms
+
+epoch 58 cost time = 436.9639377593994, train step num: 18810, one step time: 23.23040604781496 ms, train samples per second of cluster: 1377.5
+
+epoch: 58 step: 18810, loss is 0.017571819946169853
+epoch time: 436972.926 ms, per step time: 23.231 ms
+
+epoch 59 cost time = 439.1520233154297, train step num: 18810, one step time: 23.346731702043044 ms, train samples per second of cluster: 1370.6
+
+epoch: 59 step: 18810, loss is 0.11473803222179413
+epoch time: 439165.957 ms, per step time: 23.347 ms
+
+epoch 60 cost time = 441.25298166275024, train step num: 18810, one step time: 23.458425394085605 ms, train samples per second of cluster: 1364.1
+
+epoch: 60 step: 18810, loss is 0.08934228122234344
+epoch time: 442735.899 ms, per step time: 23.537 ms
+
+epoch 61 cost time = 439.1629934310913, train step num: 18810, one step time: 23.347314908617296 ms, train samples per second of cluster: 1370.6
+
+epoch: 61 step: 18810, loss is 0.009531247429549694
+epoch time: 439167.766 ms, per step time: 23.348 ms
+
+epoch 62 cost time = 435.30204153060913, train step num: 18810, one step time: 23.142054307847374 ms, train samples per second of cluster: 1382.8
+
+epoch: 62 step: 18810, loss is 0.00044541197712533176
+epoch time: 435305.998 ms, per step time: 23.142 ms
+
+epoch 63 cost time = 440.5408811569214, train step num: 18810, one step time: 23.420567844599756 ms, train samples per second of cluster: 1366.3
+
+epoch: 63 step: 18810, loss is 0.003601348726078868
+epoch time: 440544.710 ms, per step time: 23.421 ms
+
+epoch 64 cost time = 440.4966447353363, train step num: 18810, one step time: 23.41821609438258 ms, train samples per second of cluster: 1366.5
+
+epoch: 64 step: 18810, loss is 0.034684281796216965
+epoch time: 440500.934 ms, per step time: 23.418 ms
+
+epoch 65 cost time = 442.75883769989014, train step num: 18810, one step time: 23.53848153641096 ms, train samples per second of cluster: 1359.5
+
+epoch: 65 step: 18810, loss is 0.006178490351885557
+epoch time: 444030.693 ms, per step time: 23.606 ms
+
+epoch 66 cost time = 437.07432746887207, train step num: 18810, one step time: 23.23627471923828 ms, train samples per second of cluster: 1377.2
+
+epoch: 66 step: 18810, loss is 0.07330784201622009
+epoch time: 437078.971 ms, per step time: 23.237 ms
+
+epoch 67 cost time = 442.4110219478607, train step num: 18810, one step time: 23.51999053417654 ms, train samples per second of cluster: 1360.5
+
+epoch: 67 step: 18810, loss is 0.04403723403811455
+epoch time: 442414.873 ms, per step time: 23.520 ms
+
+epoch 68 cost time = 439.785049200058, train step num: 18810, one step time: 23.380385390752682 ms, train samples per second of cluster: 1368.7
+
+epoch: 68 step: 18810, loss is 0.0010239598341286182
+epoch time: 439789.329 ms, per step time: 23.381 ms
+
+epoch 69 cost time = 437.34178161621094, train step num: 18810, one step time: 23.25049344052158 ms, train samples per second of cluster: 1376.3
+
+epoch: 69 step: 18810, loss is 0.008778123185038567
+epoch time: 437345.809 ms, per step time: 23.251 ms
+
+epoch 70 cost time = 439.2207636833191, train step num: 18810, one step time: 23.35038616072935 ms, train samples per second of cluster: 1370.4
+
+epoch: 70 step: 18810, loss is 0.0011943124700337648
+epoch time: 440758.404 ms, per step time: 23.432 ms
+
+epoch 71 cost time = 439.274551153183, train step num: 18810, one step time: 23.353245675342 ms, train samples per second of cluster: 1370.3
+
+epoch: 71 step: 18810, loss is 0.0015929979272186756
+epoch time: 439278.714 ms, per step time: 23.353 ms
+
+epoch 72 cost time = 440.66605138778687, train step num: 18810, one step time: 23.42722229600143 ms, train samples per second of cluster: 1365.9
+
+epoch: 72 step: 18810, loss is 0.001089868601411581
+epoch time: 440670.008 ms, per step time: 23.427 ms
+
+epoch 73 cost time = 439.0352232456207, train step num: 18810, one step time: 23.340522235280208 ms, train samples per second of cluster: 1371.0
+
+epoch: 73 step: 18810, loss is 0.0069068861193954945
+epoch time: 439044.047 ms, per step time: 23.341 ms
+
+epoch 74 cost time = 438.8187482357025, train step num: 18810, one step time: 23.329013728639154 ms, train samples per second of cluster: 1371.7
+
+epoch: 74 step: 18810, loss is 0.00030865936423651874
+epoch time: 438836.956 ms, per step time: 23.330 ms
+
+
+epoch 75 cost time = 436.6066918373108, train step num: 18810, one step time: 23.21141370745937 ms, train samples per second of cluster: 1378.6
+
+epoch: 75 step: 18810, loss is 0.0005941097624599934
+epoch time: 438059.931 ms, per step time: 23.289 ms
+
+epoch 76 cost time = 437.60673570632935, train step num: 18810, one step time: 23.264579250735213 ms, train samples per second of cluster: 1375.5
+
+epoch: 76 step: 18810, loss is 0.0053346045315265656
+epoch time: 437611.608 ms, per step time: 23.265 ms
+
+epoch 77 cost time = 437.01631593704224, train step num: 18810, one step time: 23.233190639927816 ms, train samples per second of cluster: 1377.3
+
+epoch: 77 step: 18810, loss is 0.00013121322263032198
+epoch time: 437020.767 ms, per step time: 23.233 ms
+
+epoch 78 cost time = 439.4703755378723, train step num: 18810, one step time: 23.36365632843553 ms, train samples per second of cluster: 1369.6
+
+epoch: 78 step: 18810, loss is 2.204835254815407e-05
+epoch time: 439479.252 ms, per step time: 23.364 ms
+
+epoch 79 cost time = 441.2942090034485, train step num: 18810, one step time: 23.460617171900505 ms, train samples per second of cluster: 1364.0
+
+epoch: 79 step: 18810, loss is 0.00016121506632771343
+epoch time: 441310.676 ms, per step time: 23.461 ms
+
+epoch 80 cost time = 438.34001207351685, train step num: 18810, one step time: 23.303562577007806 ms, train samples per second of cluster: 1373.2
+
+epoch: 80 step: 18810, loss is 0.04446130245923996
+epoch time: 439707.943 ms, per step time: 23.376 ms
+
+epoch 81 cost time = 439.45912051200867, train step num: 18810, one step time: 23.36305797512008 ms, train samples per second of cluster: 1369.7
+
+epoch: 81 step: 18810, loss is 1.3709001223105588e-06
+epoch time: 439468.709 ms, per step time: 23.364 ms
+
+epoch 82 cost time = 435.93490624427795, train step num: 18810, one step time: 23.17569942819128 ms, train samples per second of cluster: 1380.8
+
+epoch: 82 step: 18810, loss is 4.6005086915101856e-05
+epoch time: 435941.995 ms, per step time: 23.176 ms
+
+epoch 83 cost time = 439.3112359046936, train step num: 18810, one step time: 23.355195954529165 ms, train samples per second of cluster: 1370.1
+
+epoch: 83 step: 18810, loss is 0.001349064172245562
+epoch time: 439323.210 ms, per step time: 23.356 ms
+
+epoch 84 cost time = 443.64229345321655, train step num: 18810, one step time: 23.58544888108541 ms, train samples per second of cluster: 1356.8
+
+epoch: 84 step: 18810, loss is 0.009013736620545387
+epoch time: 443646.404 ms, per step time: 23.586 ms
+
+epoch 85 cost time = 442.6052849292755, train step num: 18810, one step time: 23.53031817805824 ms, train samples per second of cluster: 1359.9
+
+epoch: 85 step: 18810, loss is 0.00010609152377583086
+epoch time: 443931.017 ms, per step time: 23.601 ms
+
+epoch 86 cost time = 437.6731216907501, train step num: 18810, one step time: 23.268108542836263 ms, train samples per second of cluster: 1375.3
+
+epoch: 86 step: 18810, loss is 6.662118539679796e-05
+epoch time: 437677.878 ms, per step time: 23.268 ms
+
+epoch 87 cost time = 444.011269569397, train step num: 18810, one step time: 23.60506483622525 ms, train samples per second of cluster: 1355.6
+
+epoch: 87 step: 18810, loss is 0.0006417028489522636
+epoch time: 444015.739 ms, per step time: 23.605 ms
+
+epoch 88 cost time = 438.78907012939453, train step num: 18810, one step time: 23.327435945209704 ms, train samples per second of cluster: 1371.8
+
+epoch: 88 step: 18810, loss is 0.003654602449387312
+epoch time: 438793.236 ms, per step time: 23.328 ms
+
+epoch 89 cost time = 435.6134955883026, train step num: 18810, one step time: 23.158612205651387 ms, train samples per second of cluster: 1381.8
+
+epoch: 89 step: 18810, loss is 0.00016484444495290518
+epoch time: 435617.344 ms, per step time: 23.159 ms
+
+epoch 90 cost time = 440.81839871406555, train step num: 18810, one step time: 23.435321569062495 ms, train samples per second of cluster: 1365.5
+
+epoch: 90 step: 18810, loss is 0.004747382830828428
+epoch time: 442179.918 ms, per step time: 23.508 ms
+Upload checkpoint.
+ResNet50 training success
